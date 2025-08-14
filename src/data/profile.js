@@ -8,7 +8,7 @@ const ProfileData = {
     "Adept at solving technical challenges, mentoring teams, and ensuring high-quality deliverables."
   ],
   resume:
-    "https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx",
+    "https://drive.google.com/drive/folders/1VGMmSF_a_SOV6vRhUMBkx1gMt4OqBT38",
 };
 
 export default ProfileData;
