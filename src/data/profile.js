@@ -1,5 +1,5 @@
 const ProfileData = {
-  img: require("../assets/Images/hero.png"),
+  img: require("../assets/Images/hero.jpg"),
   logo: require("../assets/Images/Name.png"),
   name: "Daniel Xin",
   professions: ["Full-stack developer", "Software Engineer", "Results-oriented Project Manager"],
@@ -8,7 +8,7 @@ const ProfileData = {
     "Adept at solving technical challenges, mentoring teams, and ensuring high-quality deliverables."
   ],
   resume:
-    "https://drive.google.com/drive/folders/1VGMmSF_a_SOV6vRhUMBkx1gMt4OqBT38",
+    "/Resume.pdf",
 };
 
 export default ProfileData;

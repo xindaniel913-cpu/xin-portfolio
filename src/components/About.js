@@ -62,7 +62,7 @@ const About = () => {
                   Hire Me
                 </Link>
               </button>
-              <a href={ProfileData.resume} target="_blank" rel="noreferrer">
+              <a href={ProfileData.resume} target="_blank">
                 <button className="inline-flex font-medium text-white bg-dark-orange border-2 border-dark-orange py-3 px-7 focus:outline-none hover:bg-cornsilk hover:border-dark-orange hover:text-black rounded-full text-md xl:px-10">
                   Get Resume
                 </button>
